@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Image Gallery with Modal</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- heading -->
+  <h1 class="heading">Image Galary</h1>
+
+  <!-- gallery thumbnails -->
+  <div class="gallery" id="gallery" aria-label="Image Gallery"></div>
+
+  <!-- Modal Popup -->
+  <div class="modal" id="modal" role="dialog" aria-labelledby="modal-title" aria-hidden="true">
+    <button class="close" id="close" aria-label="Close modal">&times;</button>
+    <img class="modal-content" id="modal-image" alt="Expanded view of image">
+  </div>
+
+  <script src="main.js"></script>
+</body>
+</html>
