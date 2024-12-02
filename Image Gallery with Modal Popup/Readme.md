@@ -1,6 +1,11 @@
 # USECASE:20
 # Building an Interactive Image Gallery with Modal Popup
 
+## Requirements
+- View thumbnails of images.
+- Click on a thumbnail to open a larger version of the image in a modal popup.
+- Enjoy smooth transitions and animations for enhanced user experience.
+
 ## Introduction
 Have you ever wanted to create a sleek and interactive image gallery for your website? This blog will guide you through building an engaging **Image Gallery with a Modal Popup** using HTML, CSS, and JavaScript. With stunning animations, a responsive layout, and easy customization, this project is perfect for both beginners and seasoned developers. Let’s dive in and bring your gallery to life!
 
